@@ -1,0 +1,10 @@
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\bin\Debug\MyExcel.exe.config
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\bin\Debug\MyExcel.exe
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\bin\Debug\MyExcel.pdb
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\obj\Debug\MyExcel.csprojResolveAssemblyReference.cache
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\obj\Debug\MyExcel.csproj.ResolveComReference.cache
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\obj\Debug\MyExcel.Form1.resources
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\obj\Debug\MyExcel.Properties.Resources.resources
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\obj\Debug\MyExcel.csproj.GenerateResource.Cache
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\obj\Debug\MyExcel.exe
+D:\MY PROJECTS\C# Çalışmaları\MyExcel\MyExcel\obj\Debug\MyExcel.pdb
